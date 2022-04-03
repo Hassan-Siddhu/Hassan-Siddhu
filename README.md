@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hassan-Siddhu
+- 👋 Hi, I’m @Hassan-Siddhu (software engineer)
 - 👀 I’m interested in Web deveopement and big data also in some aspects of security
-- 🌱 I’m currently learning Software engineering
+- 🌱 I’m currently learning Big Data nowadays.
 - 💞️ I’m looking to collaborate on some web projects and also on some big data.
 - 📫 How to reach me @hassansiddhu >instagram same as facebook
 
